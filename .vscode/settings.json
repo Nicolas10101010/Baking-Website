@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "172.20.189.156",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "ubuntu-postgres",
+            "database": "postgres",
+            "username": "postgres",
+            "password": "sysadmin"
+        }
+    ]
+}
